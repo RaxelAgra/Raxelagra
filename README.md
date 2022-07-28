@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raxelagra
+- 👋 Hi, I’m @Raxel_Agra
 - 👀 I’m interested in Data Analytics, Process Improvement, Digital Marketing, Sales & Operations 
 - 🌱 I’m currently learning Data Science and Analytics as well as Financial Analytics
 - 💞️ I’m looking to collaborate on data science and financial analytics
